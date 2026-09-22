@@ -1,0 +1,23 @@
+# Entorno virtual y temporales
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.idea/
+.vscode/
+
+# Documentos confidenciales y datos crudos
+*.pdf
+Recibos-Rentas/
+dashboard_kmsCars_data.json
+
+# Scripts de código fuente y automatización (se ejecutan solo en tu Mac local)
+*.py
+*.command
+*.sh
+
+# Imágenes locales y capturas
+*.png
+Hoja Resumen--/
